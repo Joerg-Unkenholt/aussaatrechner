@@ -1,0 +1,74 @@
+[
+  {
+    "crop_id": "lettuce_outdoor",
+    "name_de": "Salat – Freiland für Sommer/Herbst",
+    "scientific_name": "Lactuca sativa",
+    "notes": "RHS nennt für Sommer-/Herbsternte eine Freilandaussaat von Ende März bis Ende Juli. Das MVP nutzt dafür die vollständig enthaltenen Monate April bis Juli.",
+    "windows": [
+      {
+        "start_month": 4,
+        "end_month": 7,
+        "method": "outdoor",
+        "source_precision": "approximation",
+        "source_text": "RHS: für Sommer- und Herbsternte Freilandaussaat von Ende März bis Ende Juli.",
+        "source_url": "https://www.rhs.org.uk/vegetables/lettuce/grow-your-own"
+      }
+    ]
+  },
+  {
+    "crop_id": "lettuce_winter_protected",
+    "name_de": "Salat – Winter-Sorte geschützt",
+    "scientific_name": "Lactuca sativa",
+    "notes": "RHS nennt für eine Frühjahrsernte Winter-Sorten mit Aussaat im September/Oktober im Gewächshaus oder in milden Lagen unter Schutz.",
+    "windows": [
+      {
+        "start_month": 9,
+        "end_month": 10,
+        "method": "protected",
+        "source_precision": "high",
+        "source_text": "RHS: Winter-Sorte für Frühjahrsernte im September/Oktober, im Gewächshaus oder in milden Lagen unter Glocke/Frühbeet.",
+        "source_url": "https://www.rhs.org.uk/vegetables/lettuce/grow-your-own"
+      }
+    ]
+  },
+  {
+    "crop_id": "spinach_hardy",
+    "name_de": "Spinat – winterharte Sorte",
+    "scientific_name": "Spinacia oleracea",
+    "notes": "RHS empfiehlt winterharte Sorten für späte Sommer- bis frühe Herbstaussaat. Die Abbildung auf August–September ist ausdrücklich eine grobe Monatsinterpretation.",
+    "windows": [
+      {
+        "start_month": 8,
+        "end_month": 9,
+        "method": "outdoor",
+        "source_precision": "coarse",
+        "source_text": "RHS: winterharte Sorten spät im Sommer bis früh im Herbst säen; nicht zu spät, damit sie vor dem Winter etabliert sind.",
+        "source_url": "https://www.rhs.org.uk/vegetables/spinach/grow-your-own"
+      }
+    ]
+  },
+  {
+    "crop_id": "radish_salad",
+    "name_de": "Radieschen – Salat-Radieschen",
+    "scientific_name": "Raphanus sativus",
+    "notes": "RHS bezeichnet Salat-Radieschen als Kultur für Frühjahr, frühen Sommer und späten Sommer. Die Monatsabbildung ist daher als grob markiert.",
+    "windows": [
+      {
+        "start_month": 3,
+        "end_month": 6,
+        "method": "outdoor",
+        "source_precision": "coarse",
+        "source_text": "RHS: Salat-Radieschen im Frühjahr und frühen Sommer säen; heiße, trockene Witterung vermeiden.",
+        "source_url": "https://www.rhs.org.uk/vegetables/radishes/grow-your-own"
+      },
+      {
+        "start_month": 8,
+        "end_month": 9,
+        "method": "outdoor",
+        "source_precision": "coarse",
+        "source_text": "RHS: Salat-Radieschen auch im späten Sommer säen.",
+        "source_url": "https://www.rhs.org.uk/vegetables/radishes/grow-your-own"
+      }
+    ]
+  }
+]
